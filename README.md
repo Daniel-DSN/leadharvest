@@ -1,4 +1,5 @@
 # LeadHarvest
+[![tests](https://github.com/Daniel-DSN/leadharvest/actions/workflows/tests.yml/badge.svg)](https://github.com/Daniel-DSN/leadharvest/actions)
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](#testing)
