@@ -1,0 +1,5 @@
+$ python3 -m leadharvest.cli enrich samples/leads_raw.csv -o demo/leads_from_csv.csv
+LeadHarvest 1.0.0 — enriching samples/leads_raw.csv
+[stats] raw 15 → valid 9 → duplicates 2 → rejected 4
+[ok] exported 9 leads → demo/leads_from_csv.csv
+[exit 0]

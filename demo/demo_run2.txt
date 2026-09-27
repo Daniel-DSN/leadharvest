@@ -1,0 +1,6 @@
+$ python3 -m leadharvest.cli enrich demo/raw.json -o demo/leads.xlsx --report demo/rejected.csv
+LeadHarvest 1.0.0 — enriching demo/raw.json
+[stats] raw 10 → valid 10 → duplicates 0 → rejected 0
+[ok] rejected report → demo/rejected.csv (0 rows)
+[ok] exported 10 leads → demo/leads.xlsx
+[exit 0]

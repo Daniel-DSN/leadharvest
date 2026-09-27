@@ -1,0 +1,21 @@
+$ python3 -m leadharvest.cli stats demo/leads.xlsx
+LeadHarvest 1.0.0 — stats for demo/leads.xlsx
+[stats] 10 valid leads
+  by city:
+    Aliyaview                1
+    Bartholomebury           1
+    Gwenborough              1
+    Howemouth                1
+    Lebsackbury              1
+    McKenziehaven            1
+    Roscoeview               1
+    South Christy            1
+    South Elvis              1
+    Wisokyburgh              1
+  by domain (top 5):
+    annie.ca                 1
+    april.biz                1
+    billy.biz                1
+    dana.io                  1
+    jasper.info              1
+[exit 0]

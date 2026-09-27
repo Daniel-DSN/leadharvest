@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+raw.json
+leads.xlsx
+leads.csv
+leads.json
+rejected.csv

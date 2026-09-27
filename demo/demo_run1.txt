@@ -1,0 +1,5 @@
+$ python3 -m leadharvest.cli collect --from-api --out demo/raw.json
+LeadHarvest 1.0.0 — collecting from https://jsonplaceholder.typicode.com/users
+[ok] fetched 10 records
+[ok] saved raw snapshot → demo/raw.json
+[exit 0]
